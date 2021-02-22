@@ -1,0 +1,3 @@
+- hosts: lamp-servers
+  roles:
+    - ansible_role/apache-role
