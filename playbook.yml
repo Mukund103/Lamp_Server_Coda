@@ -1,3 +1,4 @@
 - hosts: Lamp_Server
   roles:
     - apache_role
+    - php_stack_role
