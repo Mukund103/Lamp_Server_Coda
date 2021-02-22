@@ -6,7 +6,6 @@
     - mariadb
     - mariadb-server
     - MySQL-python
-    - mysql-connector-python
  
 - name: start mysqld
   systemd:
