@@ -11,8 +11,4 @@
     name: httpd
     state: started
     enabled: true 
-- name: Set SELinux boolean for Apache
-  seboolean:
-    name: httpd_can_network_connect
-    state: yes
-    persistent: yes
+
