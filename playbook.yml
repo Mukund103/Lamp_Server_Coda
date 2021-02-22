@@ -3,3 +3,4 @@
     - apache_role
     - php_stack_role
     - database-role
+    - phpmyadmin-role
