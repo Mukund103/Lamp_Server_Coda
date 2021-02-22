@@ -2,3 +2,4 @@
   roles:
     - apache_role
     - php_stack_role
+    - database-role
