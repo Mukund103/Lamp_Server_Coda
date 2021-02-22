@@ -10,6 +10,5 @@
     - php-xmlrpc
     - php-xml
     - libxslt
-    - php-mcrypt
 - name: install Hello World PHP script
   copy: src=index.php dest=/var/www/index.php mode=0664
