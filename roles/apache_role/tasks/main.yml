@@ -12,4 +12,4 @@
     state: started
     enabled: true 
 - name: install Hello World PHP script
-    copy: src=index.php dest=/var/www/index.php mode=0664
+  copy: src=index.php dest=/var/www/index.php mode=0664
